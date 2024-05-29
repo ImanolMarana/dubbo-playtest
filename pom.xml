@@ -117,6 +117,8 @@
   </issueManagement>
 
   <properties>
+    <sonar.organization>imanolmarana</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- Test libs -->
     <junit_jupiter_version>5.9.3</junit_jupiter_version>
     <awaitility_version>4.2.1</awaitility_version>
